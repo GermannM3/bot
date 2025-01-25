@@ -1,5 +1,6 @@
 aiogram
+tensorflow
 psycopg2-binary
-requests
 pillow
 redis
+python-dotenv
