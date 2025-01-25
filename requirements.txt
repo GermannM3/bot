@@ -1,5 +1,5 @@
 aiogram
-tensorflow
+tensorflow-cpu
 psycopg2-binary
 pillow
 redis
